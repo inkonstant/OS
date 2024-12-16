@@ -1,0 +1,19 @@
+/home/inkonstant/Lab05
+log
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 302974      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1285/inkonstant)   Gid: ( 1287/inkonstant)
+Access: 2024-12-16 11:26:49.904610263 +0200
+Modify: 2024-12-16 11:26:49.904610263 +0200
+Change: 2024-12-16 11:26:49.904610263 +0200
+ Birth: -
+rm: cannot remove 'file_to_delete.txt': No such file or directory
+hello world
+hello world
+hello world
+hello world
+new_folder/
+new_folder/
+new_folder/
+new_folder/
